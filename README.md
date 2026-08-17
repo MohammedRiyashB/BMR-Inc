@@ -37,7 +37,7 @@ Copy `.env.example` to `.env` and configure:
 ```
 NODE_ENV=production
 PORT=3000
-PUBLIC_SITE_URL=https://bmrinc.com
+PUBLIC_SITE_URL=https://bmrinc.web.app
 BREVO_API_KEY=your-secure-key
 BREVO_SENDER_EMAIL=support.bmrinc@gmail.com
 BREVO_SENDER_NAME="BMR Inc."
