@@ -1,0 +1,20 @@
+node_modules/
+build/
+dist/
+coverage/
+.DS_Store
+*.log
+.env*
+!.env.example
+
+# Local AI/agent tooling
+.agents/
+.claude/
+agent/
+
+# Local backup files
+*.backup
+*.before-founder-schema
+
+# Firebase local cache
+.firebase/

@@ -1,0 +1,6 @@
+{
+  "name": "BMR Inc.",
+  "description": "BMR Inc. is a technology company that designs and develops innovative digital products, artificial intelligence systems, and next-generation online platforms.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
