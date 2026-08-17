@@ -2,6 +2,19 @@
 
 This repository contains the source code for the official BMR Inc. corporate website, serving as the global presence for BMR Inc., the parent organization of intelligent technologies such as UmeTVChat and EARTH AI.
 
+
+## Official Links
+
+- **Website:** https://bmrinc.web.app/
+- **Founder:** Mohammed Riyash B.
+- **Founder LinkedIn:** https://www.linkedin.com/in/mohammed-riyash-b-55b190366/
+- **Contact:** support.bmrinc@gmail.com
+
+## Products
+
+- **UmeTVChat** — Random video and text communication platform
+- **EARTH AI** — Artificial intelligence research and development project
+
 ## Project Purpose
 To provide a secure, ultra-high-performance, accessible (WCAG 2.2 AA), and visually premium interface that clearly communicates the BMR Inc. brand identity, values, and product portfolio to investors, clients, and partners.
 
